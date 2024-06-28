@@ -1,0 +1,32 @@
+@media (max-width: 575.98px) { 
+  /* NAV  */
+  #hero .bannerDots{
+   top: 80%;
+}
+  /* NAV END */
+}
+
+@media (max-width: 991.98px){
+  .footerFirst .first{
+     text-align: left ;
+  }
+  .footerFirst img{
+      display: flex;
+      justify-content: flex-start;
+  } 
+  .footerSec .second{
+      margin-bottom: 5rem;
+  }
+  .top_card .test{
+      border-right: none;
+  }
+  #product .third img{
+      padding: 0 !important;
+  }  
+  
+}
+@media (max-width: 991.98px){
+  #latest .cards{
+    
+  }
+}
